@@ -94,7 +94,7 @@
 <img width="542" height="28" alt="image" src="https://github.com/user-attachments/assets/f0a8e1f6-9ba1-4365-bc0b-b47a367da1e2" />
 
 -🚨주의할 점 : 날짜형식을 바꾸는 방법
-<img width="451" height="326" alt="image" src="https://github.com/user-attachments/assets/1d656921-dced-4bed-8a01-a012c2514499" />
+<img width=120% alt="image" src="https://github.com/user-attachments/assets/1d656921-dced-4bed-8a01-a012c2514499" />
 
 - 레이블로 하이라이터 설정하는 방법
 <img width=50% alt="image" src="https://github.com/user-attachments/assets/49bc47d6-2d74-43a9-acd8-aa00e9844520" />
