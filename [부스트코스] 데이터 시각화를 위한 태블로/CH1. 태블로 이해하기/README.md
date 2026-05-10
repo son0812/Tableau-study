@@ -21,11 +21,12 @@
 - csv 형태의 파일은 `텍스트파일`로 연결
 - 태블로 아이콘을 누르면 작업창이 뜨고 `데이터에 연결`을 선택 혹은 db모양의 아이콘을 선택하면 데이터 선택 가능
 - 데이터 그리드에서는 원본데이터를 미리보기 가능
-<img width=50% height="299" alt="image" src="https://github.com/user-attachments/assets/80282037-034e-40e5-8d2f-27bb359cb7e5" />
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/80282037-034e-40e5-8d2f-27bb359cb7e5" />
+
 - `테이블 세부 정보`를 선택하면 아래와 같이 데이터 원본 필드의 구조를 빠르게 파악 가능
-<img width=50% height="249" alt="image" src="https://github.com/user-attachments/assets/cf7a93c7-e0cb-4191-b006-276f9ef59bac" />
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/cf7a93c7-e0cb-4191-b006-276f9ef59bac" />
 
 - 그리고 `데이터 원본`이 아니라 `시트`를 선택해야 해당 시트의 테이블을 선택해서 시각화가 가능
-<img width=40% height="696" alt="image" src="https://github.com/user-attachments/assets/b3be7eac-3ae2-46ca-97a4-1c6b19e9b9ab" />
+<img width=40% alt="image" src="https://github.com/user-attachments/assets/b3be7eac-3ae2-46ca-97a4-1c6b19e9b9ab" />
 
 
