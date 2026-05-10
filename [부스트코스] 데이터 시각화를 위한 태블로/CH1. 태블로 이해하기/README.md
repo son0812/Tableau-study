@@ -1,4 +1,4 @@
-##CH1. 태블로 이해하기
+## CH1. 태블로 이해하기
 
 ### 1. 디지털로의 전환
 - DT : 디지털트랜스포메이션(기업 당면 과제)
@@ -80,7 +80,7 @@
 
 <img width=50% alt="image" src="https://github.com/user-attachments/assets/298b27ff-3945-493c-9ed8-bda2d70e1595" />
 
-- 좌측 `분석`탭에 들어가서 `평균라인`을 선택하고 시트쪽으로 drag-drop하면 `참조선 추가`가 뜨는데 이를 통해 참조선을 생성할 수 있음
+- 좌측 `분석`탭에 들어가서 `평균라인`을 선택하고 시트쪽으로 drag-drop하면 `참조선 추가`가 뜨는데 이를 통해 참조선을 생성할 수 있다
 <img width=50% alt="image" src="https://github.com/user-attachments/assets/6f6481d1-0a4a-4732-ad09-e5506a5ab01f" />
 
 ----
@@ -89,4 +89,19 @@
 - `마크`>`색상`에서 불연속형 값을 넣었을 때의 범례는 1번 사진처럼 색상이 구분되고, 연속형 값을 넣었을 때는 2번 사진처럼 색상이 그라데이션 형태로 나타난다.
 - 범례의 색상을 변경하고 싶으면 범례를 오른쪽 마우스로 클릭하여 `색상 편집`을 선택하면 불연속형이든 연속형이든 색상 변경 가능
 <img width="214" height="93" alt="image" src="https://github.com/user-attachments/assets/97ac097d-4fd7-4ca7-b292-a172d51bf865" />
- 
+
+- 태블로에서 앞에 `+`모양이 있는 경우는 계층구조라는 것이기에, 이를 클릭하면 아래의 사진처럼 점차 펼쳐지는 것을 확인 가능
+<img width="542" height="28" alt="image" src="https://github.com/user-attachments/assets/f0a8e1f6-9ba1-4365-bc0b-b47a367da1e2" />
+
+-🚨주의할 점 : 날짜형식을 바꾸는 방법
+<img width="451" height="326" alt="image" src="https://github.com/user-attachments/assets/1d656921-dced-4bed-8a01-a012c2514499" />
+
+- 레이블로 하이라이터 설정하는 방법
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/49bc47d6-2d74-43a9-acd8-aa00e9844520" />
+
+- 평균 라인 수정 방법
+→ drag-drop으로 `평균 라인` 설정한 다음에 수정하고 싶다면 해당 평균라인에 오른쪽 마우스로 클릭한 다음 아래와 같이 수정 가능
+<img width=50% alt="image" src="https://github.com/user-attachments/assets/e7aa595c-adaf-42df-a31c-31262a5fa281" />
+
+- 파란색 필드(불연속형)를 뷰에 추가하면 `머리글` 추가
+- 초록색 필드(연속형)를 뷰에 추가하면 `축` 추가
