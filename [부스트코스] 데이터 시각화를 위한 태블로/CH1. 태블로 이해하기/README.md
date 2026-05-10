@@ -78,7 +78,7 @@
 - 좌측 `데이터` 사이드바에서 오른쪽 버튼을 크릭해서 `계산된 필드 만들기`를 선택하거나 아래와 같은 방법으로도 `계산된 필드 만들기`가 가능하다
 → 이를 `색상`에 적용하면 이를 기준으로 색상이 나뉨
 
-<img width=50% alt="image" src="https://github.com/user-attachments/assets/298b27ff-3945-493c-9ed8-bda2d70e1595" />
+<img width=30% alt="image" src="https://github.com/user-attachments/assets/298b27ff-3945-493c-9ed8-bda2d70e1595" />
 
 - 좌측 `분석`탭에 들어가서 `평균라인`을 선택하고 시트쪽으로 drag-drop하면 `참조선 추가`가 뜨는데 이를 통해 참조선을 생성할 수 있다
 <img width=50% alt="image" src="https://github.com/user-attachments/assets/6f6481d1-0a4a-4732-ad09-e5506a5ab01f" />
@@ -101,7 +101,10 @@
 
 - 평균 라인 수정 방법
 → drag-drop으로 `평균 라인` 설정한 다음에 수정하고 싶다면 해당 평균라인에 오른쪽 마우스로 클릭한 다음 아래와 같이 수정 가능
-<img width=50% alt="image" src="https://github.com/user-attachments/assets/e7aa595c-adaf-42df-a31c-31262a5fa281" />
+<img width=30% alt="image" src="https://github.com/user-attachments/assets/e7aa595c-adaf-42df-a31c-31262a5fa281" />
 
 - 파란색 필드(불연속형)를 뷰에 추가하면 `머리글` 추가
 - 초록색 필드(연속형)를 뷰에 추가하면 `축` 추가
+
+- 라인차트를 만드는 이유 : 시간 순서에 따른 `추세`를 보기에 적합
+- 라인차트를 만드는 방식 : `날짜`유형 필드 사용 (⚠️이때 날짜 내부의 연속형과 불연속형 개념을 잘 인지할 것)
